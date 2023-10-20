@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background:radial-gradient(#dda3a3, #bfc091);
+    font-family:
+    'Courier New', Courier, monospace;
+}
+
+.narak{
+    box-shadow: 20px 20px 20px rgb(rgb(238, 157, 157));
+    padding: 12px 12px 12px;
+    border: 12px;
+}
+
+.narak img{
+    border-radius: 10vh;
+}
+
+.name{
+    font-size: large;
+}
